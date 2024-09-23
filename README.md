@@ -1,1 +1,1 @@
-This is just a clone resturant clone website for frontend useing css html reacht and so on..still in Progress 
+This is a restaurant clone website designed for front-end development. It uses HTML, CSS, and Tailwind CSS, among other technologies. The project is still in progress, and I'm continually working on enhancements and features. Stay tuned for updates!
